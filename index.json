@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Real Madrid vs Barcelona",
+    "logo": "https://example.com/logos/elclasico.png",
+    "url": "https://example.com/streams/elclasico.m3u8",
+    "category": "Football",
+    "time": "Live"
+  },
+  {
+    "name": "India vs Pakistan",
+    "logo": "https://example.com/logos/indvspak.png",
+    "url": "https://example.com/streams/indvspak.m3u8",
+    "category": "Cricket",
+    "time": "Upcoming"
+  },
+  {
+    "name": "LA Lakers vs Miami Heat",
+    "logo": "https://example.com/logos/lakersheat.png",
+    "url": "https://example.com/streams/lakersheat.m3u8",
+    "category": "Basketball",
+    "time": "Live"
+  },
+  {
+    "name": "Chelsea vs Liverpool",
+    "logo": "https://example.com/logos/chelsealiverpool.png",
+    "url": "https://example.com/streams/chelsealiverpool.m3u8",
+    "category": "Football",
+    "time": "Upcoming"
+  }
+]
