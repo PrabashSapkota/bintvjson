@@ -1,0 +1,10 @@
+
+[
+  {
+    "name": "Philadelphia Eagles vs Dallas Cowboys ",
+    "logo": "https://www.lineups.com/wp-content/uploads/2019/07/eagles-vs-cowboys.jpg",
+    "url": "https://embedsports.top/embed/alpha/philadelphia-eagles-vs-dallas-cowboys/1",
+    "category": "American Football",
+    "time": "Live"
+  }
+]
