@@ -1,8 +1,15 @@
 [
 {
     "name": "India u19 vs Srilanka u19",
-    "logo": "https://i.ytimg.com/vi/0wjMZRmEZ88/hq720.jpg?v=6944e0c8&sqp=CLzfk8oG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD4na1nhM7oGdiL7mky3OEldPHooA",
+    "logo": "https://img.airtel.tv/unsafe/fit-in/1600x0/filters:format(webp)/https://xstreamcp-assets-msp.streamready.in/assets/SONYLIV_VOD/VIDEO/694405fdfc5b7c1c354dcb57/images/LANDSCAPE_169/1766056008148213_AC25_U19_semi_final_IND_vs_SL_17dec_Landscape_thumb_Hindi.jpg?o=production",
     "url": "https://prabashsapkota.github.io/noooooads/?src=https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8",
+    "category": "Cricket",
+    "time": "Live"
+  },
+    {
+    "name": "India vs South Africa ",
+    "logo": "https://img.cricketnmore.com/uploads/2025/12/india-vs-south-africa-5th-t20i-who-will-win-today-ind-vs-sa-match.jpg",
+    "url": "https://justembeds.xyz/embed/8f9b6c2d1e4a7890f3a5b1c8d7e6f4a3",
     "category": "Cricket",
     "time": "Live"
   }
