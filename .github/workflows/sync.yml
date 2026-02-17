@@ -1,0 +1,33 @@
+name: Sync BinTV JSON every 10 minutes
+
+on:
+  schedule:
+    # This runs every 10 minutes
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # Allows you to run it manually via the 'Actions' tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run sync script
+        run: python update_json.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add bintvjson/index.json
+          git commit -m "Automated Sync: Updated matches data" || echo "No changes to commit"
+          git push
