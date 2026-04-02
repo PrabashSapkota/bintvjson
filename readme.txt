@@ -1,11 +1,11 @@
 [
     {
-    "name": "Lucknow Super Giants vs. Delhi Capitals",
-    "logo": "https://img.cricketnmore.com/uploads/2026/03/lsg-vs-dc-match-5-ipl-2026-preview-predicted-xis-player-tips-match-prediction.jpg",
-    "url_English HD - Stream 1": "https://ipl-e2c.pages.dev/willow1adfreehdipllink2026newhd",
-    "url_Jio Hotstar HD - Stream 1": "https://prabashsapkota.github.io/noooooads/?src=https://001.fclplayer.net/live/csstream3/playlist.m3u8?id=1003",
-    "url_Fox English - Stream 2": "https://prabashsapkota.github.io/noooooads/?src=https://imgs-001.juno-api-noe.icu/secure/api/v1/lchd-fs501.m3u8",
+    "name": "Kolkata Knight Riders vs Sunrisers Hyderabad",
+    "logo": "https://gamepalacio.com/wp-content/uploads/2026/04/kkr-vs-srh-match-ipl-2-april-2026.jpg",
+    "url_Star English - Stream 1": "https://prabashsapkota.github.io/noooooads/?src=https://ott-nettv-02.nettv.com.np/iptvsports/netSTARSPORTS1HD1500.stream/playlist.m3u8",
+    "url_Star Hindi - Stream 2": "https://prabashsapkota.github.io/noooooads/?src=https://ott-nettv-02.nettv.com.np/iptvsports/netSTARSPORTS3HD1500.stream/playlist.m3u8",
     "category": "Cricket",
     "time": "Live"
   }
 ]
+
