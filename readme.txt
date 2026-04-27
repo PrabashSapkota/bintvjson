@@ -1,11 +1,16 @@
 [
     {
-    "name": "Kolkata Knight Riders vs Sunrisers Hyderabad",
-    "logo": "https://gamepalacio.com/wp-content/uploads/2026/04/kkr-vs-srh-match-ipl-2-april-2026.jpg",
-    "url_Star English - Stream 1": "https://prabashsapkota.github.io/noooooads/?src=https://ott-nettv-02.nettv.com.np/iptvsports/netSTARSPORTS1HD1500.stream/playlist.m3u8",
-    "url_Star Hindi - Stream 2": "https://prabashsapkota.github.io/noooooads/?src=https://ott-nettv-02.nettv.com.np/iptvsports/netSTARSPORTS3HD1500.stream/playlist.m3u8",
+    "name": "Indian Premier League (Star Channels)",
+    "logo": "https://www.iplt20.com/assets/images/ipl-thumbnail.png?v=1.33",
+    "url_Star Sports 1 Hindi - WorldWide": "https://fancoodee.pages.dev/?src=https://jtvxweb.pages.dev/pworld?id=362",
+    "url_Star Sports 1 English - WorldWide": "https://fancoodee.pages.dev/?src=https://jtvxweb.pages.dev/pworld?id=1142",
+    "url_Star Sports 2 Hindi - WorldWide": "https://fancoodee.pages.dev/?src=https://jtvxweb.pages.dev/pworld?id=1985",
+    "url_Star Sports 2 English - WorldWide": "https://fancoodee.pages.dev/?src=https://jtvxweb.pages.dev/pworld?id=1141",
+    "url_Star Sports 1 Hindi - India Only": "https://fancoodee.pages.dev/?src=https://jtvxweb.pages.dev/pind?id=1108",
+    "url_Star Sports 1 English- India Only": "https://fancoodee.pages.dev/?src=https://jtvxweb.pages.dev/pind?id=1142",
+    "url_Star Sports 2 Hindi - India Only ": "https://fancoodee.pages.dev/?src=https://jtvxweb.pages.dev/pind?id=1985",
+    "url_Star Sports 2 English - India Only ": "https://fancoodee.pages.dev/?src=https://jtvxweb.pages.dev/pind?id=1141",
     "category": "Cricket",
     "time": "Live"
   }
 ]
-
