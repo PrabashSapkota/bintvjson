@@ -1,16 +1,12 @@
 [
     {
-    "name": "Indian Premier League (Star Channels)",
-    "logo": "https://www.iplt20.com/assets/images/ipl-thumbnail.png?v=1.33",
-    "url_Star Sports 1 Hindi - WorldWide": "https://fancoodee.pages.dev/?src=https://jtvxweb.pages.dev/pworld?id=362",
-    "url_Star Sports 1 English - WorldWide": "https://fancoodee.pages.dev/?src=https://jtvxweb.pages.dev/pworld?id=1142",
-    "url_Star Sports 2 Hindi - WorldWide": "https://fancoodee.pages.dev/?src=https://jtvxweb.pages.dev/pworld?id=1985",
-    "url_Star Sports 2 English - WorldWide": "https://fancoodee.pages.dev/?src=https://jtvxweb.pages.dev/pworld?id=1141",
-    "url_Star Sports 1 Hindi - India Only": "https://fancoodee.pages.dev/?src=https://jtvxweb.pages.dev/pind?id=1108",
-    "url_Star Sports 1 English- India Only": "https://fancoodee.pages.dev/?src=https://jtvxweb.pages.dev/pind?id=1142",
-    "url_Star Sports 2 Hindi - India Only ": "https://fancoodee.pages.dev/?src=https://jtvxweb.pages.dev/pind?id=1985",
-    "url_Star Sports 2 English - India Only ": "https://fancoodee.pages.dev/?src=https://jtvxweb.pages.dev/pind?id=1141",
-    "category": "Cricket",
-    "time": "Live"
+"name": "Atlético Madrid vs Arsenal",
+"logo": "https://www.moroccoworldnews.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-21-at-11.44.17-AM.jpeg",
+"url_TNT 1 - NO IOS": "https://testingbintvfun.blogspot.com/?channel=Tnt1",
+"url_TUDN - NO IOS": "https://testingbintvfun.blogspot.com/?channel=VIXSports",
+"url_Canal Sports - France": "https://prabashsapkota.github.io/noooooads/?src=https://php.tigertestxtg.sbs/channel/CanalSport1[France]",
+"url_ESPN - Argentina": "https://prabashsapkota.github.io/noooooads/?src=https://php.tigertestxtg.sbs/channel/ESPN[Argentina]",
+"category": "Soccer",
+"time": "Live"
   }
 ]
