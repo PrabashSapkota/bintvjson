@@ -16,20 +16,6 @@
 "time": "Live"
   },
     {
-"name": "Hellas Verona vs Como",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK8kbsMb2RGBHVq8zQbdmSmBSVtI6Ng8G3Bg&s",
-"url_Series A - Stream 1": "https://pooembed.eu/embed/seriea/2026-05-10/ver-como",
-"category": "Soccer",
-"time": "Live"
-  },
-    {
-"name": "Celtic vs Rangers",
-"logo": "https://static.standard.co.uk/2025/10/31/14/34/celticrangers25.jpeg?width=1200",
-"url_SPFL - Stream 1": "https://pooembed.eu/embed/spfl-premiership/2026-05-10/cel-ran",
-"category": "Soccer",
-"time": "Live"
-  },
-    {
 "name": "Mallorca vs Villareal",
 "logo": "https://i.ibb.co/PZwhWdbs/output1.png",
 "url_LALIGA TV - Stream 1": "https://pooembed.eu/embed/laliga/2026-05-10/mll-vil",
@@ -89,6 +75,13 @@
 "name": "Athletic Club vs. Valencia",
 "logo": "https://api.ppv.to/assets/thumb/a6d8f27e75431e59548f36ac9f594983-thumbnail.jpg",
 "url_Laliga TV - Stream 1": "https://pooembed.eu/embed/laliga/2026-05-10/ath-val",
+"category": "Soccer",
+"time": "Live"
+  },
+    {
+"name": "Arsenal @ West Ham United",
+"logo": "https://i.ibb.co/v4gT6JX5/epl-thumb-2281192.png",
+"url_Premier League - Stream 1": "https://pooembed.eu/embed/pl/2026-05-10/whu-ars",
 "category": "Soccer",
 "time": "Live"
   },
