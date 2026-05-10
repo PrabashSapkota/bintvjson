@@ -6,5 +6,33 @@
 "url_Fox English - Stream 2 ": "https://pooembed.eu/embed/ipl/2026-05-10/csk-lsg",
 "category": "Cricket",
 "time": "Live"
+  },
+    {
+"name": "Royal Chalangers Banglore vs Mumbai Indians",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQyJm4-bTSHUcWntQQnQAMlyyac08F75zrjw&s",
+"url_Fox English - Stream 1": "https://pooembed.eu/embed/ipl/2026-05-10/rcb-mi",
+"category": "Cricket",
+"time": "Live"
+  },
+    {
+"name": "Hellas Verona vs Como",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK8kbsMb2RGBHVq8zQbdmSmBSVtI6Ng8G3Bg&s",
+"url_Series A - Stream 1": "https://pooembed.eu/embed/seriea/2026-05-10/ver-como",
+"category": "Soccer",
+"time": "Live"
+  },
+    {
+"name": "Celtic vs Rangers",
+"logo": "https://static.standard.co.uk/2025/10/31/14/34/celticrangers25.jpeg?width=1200",
+"url_SPFL - Stream 1": "https://pooembed.eu/embed/spfl-premiership/2026-05-10/cel-ran",
+"category": "Soccer",
+"time": "Live"
+  },
+    {
+"name": "Mallorca vs Villareal",
+"logo": "https://i.ibb.co/PZwhWdbs/output1.png",
+"url_Fancode HD - NO IOS": "https://testingbintvfun.blogspot.com/?channel=Fancodehd",
+"category": "Soccer",
+"time": "Live"
   }
 ]
