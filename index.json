@@ -89,5 +89,12 @@
 "url_Laliga TV - Stream 1": "https://pooembed.eu/embed/laliga/2026-05-10/ath-val",
 "category": "Soccer",
 "time": "Live"
+  },
+    {
+"name": "Barcelona vs Real Madrid",
+"logo": "https://r2.thesportsdb.com/images/media/event/thumb/hgt4bz1751450379.jpg",
+"url_Laliga TV - NO IOS": "https://testingbintvfun.blogspot.com/?channel=LALIGATV",
+"category": "Soccer",
+"time": "Live"
   }
 ]
