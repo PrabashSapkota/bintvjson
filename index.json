@@ -16,5 +16,13 @@
 "url_Bein Sports 3 - NO IOS": "https://testingbintvfun.blogspot.com/?channel=Bein3",
 "category": "TV",
 "time": "Live"
+  },
+    {
+"name": "Fancode HD",
+"logo": "https://www.medianews4u.com/wp-content/uploads/2020/05/Fancode.jpg",
+"url_Fancode HD 1 - NO IOS": "https://testingbintvfun.blogspot.com/?channel=FC1",
+"url_Fancode HD 2 - NO IOS": "https://testingbintvfun.blogspot.com/?channel=FC2",
+"category": "TV",
+"time": "Live"
   }
 ]
