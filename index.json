@@ -33,5 +33,12 @@
 "url_Premier Sports 2 HD - NO IOS": "https://ipl-e2c.pages.dev/premiersports2hdnewchanneladded",
 "category": "TV",
 "time": "Live"
+  },
+    {
+"name": "Laliga TV",
+"logo": "https://substackcdn.com/image/fetch/$s_!l5IK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa13be3d7-ce7d-42e8-a227-7a5a9f5ca90a_1280x720.jpeg",
+"url_Laliga TV HD - NO IOS": "https://testingbintvfun.blogspot.com/?channel=LALIGATV",
+"category": "TV",
+"time": "Live"
   }
 ]
