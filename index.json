@@ -25,5 +25,13 @@
 "url_Fancode HD 2 - NO IOS": "https://testingbintvfun.blogspot.com/?channel=FC2",
 "category": "TV",
 "time": "Live"
+  },
+    {
+"name": "Premier Sports HD",
+"logo": "https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/PremierSports_IVP_LAND_917x516.jpg",
+"url_Premier Sports 1 HD - No IOS": "https://ipl-e2c.pages.dev/premiersports1hdnewchanneladded",
+"url_Premier Sports 2 HD - NO IOS": "https://ipl-e2c.pages.dev/premiersports2hdnewchanneladded",
+"category": "TV",
+"time": "Live"
   }
 ]
