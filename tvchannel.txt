@@ -1,0 +1,44 @@
+[
+    {
+"name": "TNT Sports",
+"logo": "https://www.sportcal.com/wp-content/uploads/sites/32/2023/07/main64b7ff7c282a2.jpg",
+"url_TNT Sports 1 - NO IOS": "https://testingbintvfun.blogspot.com/?channel=Tnt1",
+"url_TNT Sports 2 - NO IOS": "https://testingbintvfun.blogspot.com/?channel=Tnt2",
+"url_TNT Sports 3 - NO IOS": "https://testingbintvfun.blogspot.com/?channel=Tnt3",
+"url_TNT Sports 4 - NO IOS": "https://testingbintvfun.blogspot.com/?channel=Tnt4",
+"category": "TV",
+"time": "Live"
+  },
+    {
+"name": "Bein Sports",
+"logo": "https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/1318873e-8501-4f79-bb69-182d741cf9ad/beIN%20SPORTS%20Portada.jpg?ver=03-06-2025?w=3840&q=75",
+"url_Bein Sports 1 - NO IOS": "https://testingbintvfun.blogspot.com/?channel=BEIN1",
+"url_Bein Sports 2 - NO IOS": "https://testingbintvfun.blogspot.com/?channel=Bein2",
+"url_Bein Sports 3 - NO IOS": "https://testingbintvfun.blogspot.com/?channel=Bein3",
+"category": "TV",
+"time": "Live"
+  },
+    {
+"name": "Fancode HD",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbulcg0QJbMX113YUfYn__Y_ez5h5DgvvFLw&s",
+"url_Fancode HD 1 - NO IOS": "https://testingbintvfun.blogspot.com/?channel=FC1",
+"url_Fancode HD 2 - NO IOS": "https://testingbintvfun.blogspot.com/?channel=FC2",
+"category": "TV",
+"time": "Live"
+  },
+    {
+"name": "Premier Sports HD",
+"logo": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/9/2/8/1457928_premiersports_821472.jpg",
+"url_Premier Sports 1 HD - No IOS": "https://ipl-e2c.pages.dev/premiersports1hdnewchanneladded",
+"url_Premier Sports 2 HD - NO IOS": "https://ipl-e2c.pages.dev/premiersports2hdnewchanneladded",
+"category": "TV",
+"time": "Live"
+  },
+    {
+"name": "Laliga TV",
+"logo": "https://substackcdn.com/image/fetch/$s_!l5IK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa13be3d7-ce7d-42e8-a227-7a5a9f5ca90a_1280x720.jpeg",
+"url_Laliga TV HD - NO IOS": "https://testingbintvfun.blogspot.com/?channel=LALIGATV",
+"category": "TV",
+"time": "Live"
+  }
+]
