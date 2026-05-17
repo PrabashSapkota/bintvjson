@@ -34,6 +34,16 @@
 "category": "TV",
 "time": "Live"
   },
+{
+"name": "Sky Sport NZ",
+"logo": "https://images.ctfassets.net/7b9nfelvm7fe/5Q2NFj7I7GxdM3MUirTcjY/12e111cedf047906282593d256909c80/sky-sport-rebrand-media-release.jpg",
+"url_Sky Sport 6 NZ - NO IOS": "https://ipl-e2c.pages.dev/skysport6nzlivestreamingnowhd",
+"url_Sky Sport 7 NZ - NO IOS": "https://ipl-e2c.pages.dev/skysport7nzlivestreamingnowhd",
+"url_Sky Sport 8 NZ - NO IOS": "https://ipl-e2c.pages.dev/skysport8nzlivestreamingnowhd",
+"url_Sky Sport 9 NZ - NO IOS": "https://ipl-e2c.pages.dev/skysport9nzlivestreamingnowhd",
+"category": "TV",
+"time": "Live"
+  },
     {
 "name": "Laliga TV",
 "logo": "https://substackcdn.com/image/fetch/$s_!l5IK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa13be3d7-ce7d-42e8-a227-7a5a9f5ca90a_1280x720.jpeg",
