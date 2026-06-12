@@ -50,5 +50,19 @@
 "url_Laliga TV HD - NO IOS": "https://testingbintvfun.blogspot.com/?channel=LALIGATV",
 "category": "TV",
 "time": "Live"
+  },
+    {
+"name": "Mexico vs South Africaa",
+"logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKElBg+CYFJDcQfIyBIgYpkFcSG+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp",
+"url_TUBI USA - Stream 1": "https://prabashsapkota.github.io/ads/?url=https://junkieembeds.pages.dev/embed/tubi-1",
+"url_Telemundo - No IOS": "https://prabashsapkota.github.io/ads/?url=https://prabashsapkota.github.io/willo/",
+"url_CAZE TV - No IOS": "https://ipl-e2c.pages.dev/tntsports1hdfootballlinklatestnew",
+"url_ITV English - Stream 2": "https://embed.st/embed/admin/ppv-mexico-vs-south-africa/1",
+"url_Fox English - Stream 3": "https://embed.st/embed/admin/ppv-mexico-vs-south-africa/3",
+"url_Tele Spanish - Stream 4": "https://embed.st/embed/admin/ppv-mexico-vs-south-africa/5",
+"url_TSN English - Stream 5": "https://prabashsapkota.github.io/ads/?url=https://junkieembeds.pages.dev/embed/tsn1-ca",
+"url_TSN 1 English - No IOS": "https://ipl-e2c.pages.dev/skysports1nzhdipllink2026newhd",
+"category": "Soccer",
+"time": "Live"
   }
 ]
