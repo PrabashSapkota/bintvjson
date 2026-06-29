@@ -1,1 +1,11 @@
-
+{
+"name": "World Cup 2026 - All Channels",
+"logo": "https://cdn2.nbcuni.com/NBCUniversal/styles/newsroom_stories_16_9_image_style/s3/2026-06/FIFA%20WC%20Junio%202026_1920x1080.jpg?VersionId=roFFCHTrhuXHX5Vk9a0jQ_qbu4glKOeW&h=d1cb525d&itok=eF6LlykV",
+"url_Telemundo - Stream 1": "https://prabashsapkota.github.io/noooooads/?src=https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+"url_D Sports - Stream 2": "https://prabashsapkota.github.io/noooooads/?src=https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8",
+"url_TUDN - Stream 3": "https://prabashsapkota.github.io/noooooads/?src=https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8",
+"url_Win Sports - Stream 4": "https://prabashsapkota.github.io/noooooads/?src=https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8",
+"url_Bein Sports 1 - Stream 5": "https://prabashsapkota.github.io/noooooads/?src=https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+"category": "Soccer",
+"time": "Live"
+  }
