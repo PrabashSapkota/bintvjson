@@ -2,9 +2,10 @@
   {
 "name": "World Cup 2026 - All Channels",
 "logo": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2025-11/World-Cup-2026-umbrella-FTR-%281%29.jpg?itok=EmUuGN-R",
+"url_TSN 1 - Stream 1": "https://prabashsapkota.github.io/noooooads/?src=https://mickiecy.s3.eu-central-1.amazonaws.com/sportsnet_1080p30.m3u8",
 "url_BEIN 1 - Stream 1": "https://prabashsapkota.github.io/noooooads/?src=https://cdn011.viaplus.site/bein-xyz.m3u8",
 "url_ITV 1 - Stream 2": "https://prabashsapkota.github.io/noooooads/?src=https://cdn011.viaplus.site/itv-xyz.m3u8",
-"url_TSN 1 - Stream 3": "https://prabashsapkota.github.io/noooooads/?src=https://cdn011.viaplus.site/tsn1-xyz.m3u8",
+"url_TSN 4 - Stream 3": "https://prabashsapkota.github.io/noooooads/?src=https://cdn011.viaplus.site/tsn1-xyz.m3u8",
 "url_TELEMUNDO - Stream 4": "https://prabashsapkota.github.io/noooooads/?src=https://cdn011.viaplus.site/telemundo-xyz.m3u8",
 "category": "Soccer",
 "time": "Live"
