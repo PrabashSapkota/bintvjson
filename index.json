@@ -5,5 +5,13 @@
 "url_Sony Sports Network": "https://logic.icelanders.st/embed/sonysportsnetwork2-in",
 "category": "Others",
 "time": "Live"
-  }
+  },
+    {
+"name": "India vs Zimbabwe",
+"logo": "https://www.thesportsdb.com/images/media/event/thumb/qbn4lb1783752220.jpg",
+"url_English HD - Stream 1": "https://prabashsapkota.github.io/noooooads/?src=https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+"url_Hindi HD (India Only)- Stream 2": "https://prabashsapkota.github.io/noooooads/?src=https://vsd270.okcdn.ru/cmaf/16975412333141/sig/kF-zHmYRlD8/expires/1785059829045/srcIp/66.78.59.15/urls/95.163.35.74/clientType/36/srcAg/CHROME/mid/15267412330325/get/hls_15267412330325.YQNfrjzxRZI.m3u8",
+"category": "Cricket",
+"time": "Live"
+}
 ]
