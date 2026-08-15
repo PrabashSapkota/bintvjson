@@ -13,5 +13,12 @@
 "url_NO DELAY - Stream 1": "https://proxy-play-hls.lovable.app/https:/live05.meung.app/live/75748097.m3u8",
 "category": "Football",
 "time": "Live"
+  },
+    {
+"name": "Bayern Munchen vs RB Leipzig lúc",
+"logo": "https://assets.goal.com/images/v3/bltf175996afd7e961c/RB_Leipzig_Simakan_Bayern_Munich_Upamecano_Bundesliga.png",
+"url_NO DELAY - Stream 1": "https://proxy-play-hls.lovable.app/https://live05.meung.app/live/82054853.m3u8",
+"category": "Football",
+"time": "Live"
   }
 ]
